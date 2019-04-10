@@ -1,0 +1,13 @@
+*
+!services
+!api
+!inc
+*/.nuxt
+*/node_modules
+*/package-lock.json
+*/bower_components
+**/*.log
+**/Dockerfile
+**/.gitignore
+
+# 好像沒反應 學習中
